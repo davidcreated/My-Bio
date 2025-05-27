@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Folorunsho-Roberts David</h1>
-<h3 align="center">✨ Passionate Mobile Developer | Age: 20 | Flutter & FlutterFlow Enthusiast ✨</h3>
+<h3 align="center">✨ Passionate Mobile Developer | Flutter & FlutterFlow Enthusiast ✨</h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
