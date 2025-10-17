@@ -18,7 +18,25 @@
 
 
 ### Glad to see you here!  
-I’m a full-stack developer who has turned years of freelancing into a full-time career. Being a full-stack allows me to not only develop client-facing apps and websites but also develop it with cutting edge backend support.
+Hi, I’m Folorunsho-Roberts David, a passionate Flutter developer who loves building clean, beautiful, and high-performing mobile applications. I focus on creating smooth user experiences using modern technologies like Flutter, Firebase, and REST APIs — bringing ideas to life with elegant UI and reliable functionality.
+
+I enjoy solving real-world problems through code and continuously improving my skills in mobile architecture, state management, and app scalability.
+When I’m not coding, I’m usually exploring new tools, contributing to tech communities, or mentoring beginners in mobile development.
+
+💡 Key Interests:
+
+Cross-platform mobile app development (Flutter)
+
+API integration & backend connectivity
+
+Clean architecture & scalable project structure
+
+UI/UX implementation
+
+Tech education & mentoring
+
+🚀 Goal:
+To build impactful mobile apps that improve everyday life and collaborate with teams that value creativity, innovation, and excellence.
 
 I specialize in building robust backends that do all the heavy lifting for your app or website. I love designing systems that are light yet powerful, distributed yet synchronized and beautiful yet effective. I also frequently blog about the world behind the screen which involves system designs, databases, security, servers, optimisation and also promising technologies like Blockchain and PWAs.  
   
@@ -118,7 +136,7 @@ I specialize in building robust backends that do all the heavy lifting for your 
 
 <br/>  
 
-![Profile views counter](https://komarev.com/ghpvc/?username=davidcreated &&style=flat-square)  
+ 
   
 
 <br/>  
