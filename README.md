@@ -18,7 +18,7 @@
 
 
 ### Glad to see you here!  
-Hi, I’m Folorunsho-Roberts David, a passionate Flutter developer who loves building clean, beautiful, and high-performing mobile applications. I focus on creating smooth user experiences using modern technologies like Flutter, Firebase, and REST APIs — bringing ideas to life with elegant UI and reliable functionality.
+Hi, I’m Folorunsho-Roberts David, a passionate Flutter developer who loves building clean, beautiful, and high-performing mobile applications. I focus on creating smooth user experiences using modern technologies like Flutter, Firebase, and REST APIs bringing ideas to life with elegant UI and reliable functionality.
 
 I enjoy solving real-world problems through code and continuously improving my skills in mobile architecture, state management, and app scalability.
 When I’m not coding, I’m usually exploring new tools, contributing to tech communities, or mentoring beginners in mobile development.
